@@ -1,0 +1,13 @@
+body{
+  background-color: black;
+}
+.App{
+  display: flex;  /*Hizalandı. */
+  justify-content: center; /* Yatay yönde merkeze hizalandi */
+  align-items: center; /* Dikey olarak ortalandı*/
+}
+.calc-wrapper{
+  background-color: white;
+  width: 400px;  /* Boyutu ayarlandı.*/ 
+  border-radius: 16px;
+}
