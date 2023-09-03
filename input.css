@@ -1,0 +1,17 @@
+.input-wrapper{
+    height: 10em;
+    display: flex; /* hizalama ortalandı.*/
+    justify-content: flex-end;/*kaldığı yerden sona */
+    align-items: flex-end; /*aşağı sona*/
+    flex-direction: column; /* uZAKLIK ARTIRILDI.*/
+    padding: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.result{
+    flex: 1;
+    font-size: 40px;
+}
+.text{
+    flex: 1;
+    font-size: 30px;
+}
